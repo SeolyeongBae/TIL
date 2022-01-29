@@ -1,1 +1,5 @@
-# TIL[2022.1.29 : [Test] 자동으로 글이 깃허브에 올라가는지 확인](https://pearjam.tistory.com/2) <br>
+### TIL(Today I Learned)
+
+매일 배운 걸 기록해 둡니다.</center>
+
+---
