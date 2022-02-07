@@ -10,3 +10,4 @@
 [2022.2.4 : [JavaScript] 원시 값 vs 객체 (Primitive Type/Reference Type(Object))](https://pearjam.tistory.com/7) <br>
 [2022.2.5 : [JavaScript] Function Note](https://pearjam.tistory.com/8) <br>
 [2022.2.6 : [JavaScript] Global variables (전역 변수)](https://pearjam.tistory.com/9) <br>
+[2022.2.7 : [JavaScript] var 대신 let/const를 사용하자(ES6)](https://pearjam.tistory.com/10) <br>
