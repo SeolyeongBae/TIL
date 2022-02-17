@@ -14,3 +14,4 @@
 [2022.2.8 : [JavaScript] Property Attribute (프로퍼티 어트리뷰트)](https://pearjam.tistory.com/11) <br>
 [2022.2.11 : [JavaScript] 생성자 함수에 의한 객체 생성](https://pearjam.tistory.com/12) <br>
 [2022.2.16 : [JavaScript] Prototype(함수 객체, 리터럴 표기법, 프로토타입 객체)](https://pearjam.tistory.com/13) <br>
+[2022.2.16 : [JavaScript] Prototype Chain/직접 상속](https://pearjam.tistory.com/14) <br>
