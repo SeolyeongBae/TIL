@@ -18,3 +18,5 @@
 [2022.2.21 : [Flutter] 기본 제공 코드 뜯어보기](https://pearjam.tistory.com/15) <br>
 [2022.2.22 : [JavaScript] Wrapper Object](https://pearjam.tistory.com/16) <br>
 [2022.2.23 : [JavaScript] This : binding 중심](https://pearjam.tistory.com/17) <br>
+[2022.4.25 : [Leetcode][Python3] 269.  AlienDictionary](https://pearjam.tistory.com/18) <br>
+[2022.4.25 : [Leetcode][Python3] 135. Candy](https://pearjam.tistory.com/19) <br>
